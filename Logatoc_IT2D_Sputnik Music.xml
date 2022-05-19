@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE Sputnik_Music [
+        <!ELEMENT Sputnik_Music (web-page)>
+        <!ELEMENT webpage (welcome_page, home, library, sad_song, love_song, classic_song, acoustic_song, reggae_song, rap_song, folk_song, about, contact, information, blog, detail)>
+        <!ELEMENT welcome_page (id, title, author, date, content)>
+        <!ELEMENT home (id, title, author, date, content)>
+        <!ELEMENT library (id, title, author, date, content)>
+        <!ELEMENT sad_song (id, title, author, date, content)>
+        <!ELEMENT love_song (id, title, author, date, content)>
+        <!ELEMENT classic_song (id, title, author, date, content)>
+        <!ELEMENT acoustic_song (id, title, author, date, content)>
+        <!ELEMENT reggae_song (id, title, author, date, content)>
+        <!ELEMENT rap_song (id, title, author, date, content)>
+        <!ELEMENT folk_song (id, title, author, date, content)>
+        <!ELEMENT about (id, title, author, date, content)>
+        <!ELEMENT contact (id, title, author, date, content)>
+        <!ELEMENT information (id, title, author, date, content)>
+        <!ELEMENT blog (id, title, author, date, content)>
+        <!ELEMENT detail (id, title, author, date, content)>
+
+
+        <!ELEMENT web-page (#PCDATA)>
+        <!ELEMENT welcome_page (#PCDATA)>
+        <!ELEMENT home (#PCDATA)>
+        <!ELEMENT library (#PCDATA)>
+        <!ELEMENT sad_song (#PCDATA)>
+        <!ELEMENT love_song (#PCDATA)>
+        <!ELEMENT classic_song (#PCDATA)>
+        <!ELEMENT acoustic_song (#PCDATA)>
+        <!ELEMENT reggae_song (#PCDATA)>
+        <!ELEMENT rap_song (#PCDATA)>
+        <!ELEMENT folk_song (#PCDATA)>
+        <!ELEMENT about (#PCDATA)>
+        <!ELEMENT contact (#PCDATA)>
+        <!ELEMENT information (#PCDATA)>
+        <!ELEMENT blog (#PCDATA)>
+        <!ELEMENT detail (#PCDATA)>
+        <!ELEMENT id (#PCDATA)>
+        <!ELEMENT title (#PCDATA)>
+        <!ELEMENT author (#PCDATA)>
+        <!ELEMENT date (#PCDATA)>
+        <!ELEMENT content (#PCDATA)>
+
+]>
+<Sputnik_Music>
+
+  <web-page>
+    <welcome_page>
+    <id>1652954515</id>
+    <title>Welcome Page</title>
+    <author>Developer of Sputnik Music</author>
+    <date>May/19/2022</date>
+    <content>Welcom to Sputnik Music&#13;
+             Get Strated &#13;
+    </content>
+  </welcome_page>
+  </web-page>
+
+<web-page> 
+  <home>
+    <id>1652954515</id>
+    <title>Homepage</title>
+    <author>Developer of Sputnik Music</author>
+    <date>May/19/2022</date>
+    <content> Feel the Heart Beats&#13;
+              I Make To Feel &amp; Enjoy &#13;
+              Top Featured Song&#13;
+              December 27, 2021/KAGOME/Lo Ki &#13;
+              April 7, 2019/HULING SANDALI/December Avenue&#13;
+              September 17, 2019/Kung Di' Na Ako/Agsunta&#13;
+              April 14, 2015/IMAGINATION/Shawn Mendez&#13;
+              May 27, 2008/TONIGHT/Fm Static&#13;
+              Apr 23, 2022/SUN AND MOON/Anees&#13;
+              DEVELOPERS&#13;
+              Jared Simon R. Danao/Web-Developer&#13;
+              Jemhar Jhon Logatoc/Web-Developer  &#13;
+              About Us&#13;
+              It is a long established fact that a reader will be distracted by the readable content. © 2022 Sputnik Music. Marinduque-Philippines. All Right Reserved Founded by Jared Simon R. Danao Jemhar Jhon Logatoc
+    </content>
+  </home>
+</web-page>
+
+<web-page>
+   <library>
+      <id>1652956609</id>
+      <title>Library</title>
+      <author>Developers of Sputnik Music</author>
+      <date>May/19/2022</date>
+     <content> Top Featured Song&#13;
+               December 27, 2021/KAGOME/Lo Ki&#13;
+               April 7, 2019/HULING SANDALI/December Avenue&#13;
+               December 22, 2020/Pagsisi/Bandang Lapis&#13;
+               April 14, 2015/IMAGINATION/Shawn Mendez&#13;
+               May 27, 2008/TONIGHT/Fm Static&#13;
+               Apr 23, 2022/SUN AND MOON/Anees&#13;
+               February 10, 2010/Crazier/Cover by Arthur Miguel&#13;
+               Heaven/Boyce Avenue feat. Megan Nicole acoustic cover&#13;
+               I’ll Never Go/Arthur Miguel (covered)&#13;
+               February 10, 2010/The Gift (Lyrics)/Collin Raye and Susan Ashton&#13;
+               Destiny/Jim Brickman&#13;
+               The Past/Jed Madela
+               Talk To Me/Tory Lanez, Rich The Kid&#13;
+               GOD'S PLAN/Drake&#13;
+               Explicit/Eminem
+               Kanlungan/TropaVibes Reggae&#13;
+               Himig ng Pag ibig/Reggae Version&#13;
+               Wonderful Tonight/Eric Clapton&#13;
+      </content>
+  </library>
+</web-page>
+
+
+<web-page>
+  <sad_song>
+    <id>1652957078</id>
+    <title>Sad Song</title>
+    <author>Developer of Sputnik Music</author>
+    <date>May/19/2022</date>
+    <content>Sad Song&#13;
+             December 27, 2021/KAGOME/Lo Ki&#13;
+             April 7, 2019/HULING SANDALI/December Avenue&#13;
+             December 22, 2020/Pagsisi/Bandang Lapis&#13;
+             April 14, 2015/IMAGINATION/Shawn Mendez&#13;
+             May 27, 2008/Let Her Go/Music Travel Love&#13;
+             April 28, 2017/Dandelions/Ruth B.
+           </content>
+  </sad_song>
+</web-page>
+
+
+<web-page>
+  <love_song>
+    <id>1652957297</id>
+    <title>Love Song</title>
+    <author>Developer of Sputnik Music</author>
+    <date>May/19/2022</date>
+    <content>Love Song&#13;
+             December 27, 2021/KAGOME/Lo Ki&#13;
+             October 25, 2010/ECHANTED/Taylor Swift&#13;
+             September 17, 2019/Understand/Boywithuke&#13;
+             April 14, 2015/IMAGINATION/Shawn Mendez&#13;
+             May 27, 2008/TONIGHT/Fm Static&#13;
+             Apr 23, 2022/SUN AND MOON/Anees
+           </content>
+  </love_song>
+  </web-page>
+
+<web-page>
+  <classic_song>
+    <id>1652957646</id>
+    <title>Classic Song</title>
+    <author>Developer of Sputnik Music</author>
+    <date>May/19/2022</date>
+    <content>Classic Song&#13;
+             December 27, 1997/Heart is Gold/Passenger&#13;
+             April 12, 1971/Take Me Home, Country Roads/December Avenue&#13;
+             Having You Near Me/Air Supply&#13;
+             February 10, 2010/The Gift (Lyrics)/Collin Raye and Susan Ashton&#13;
+             Destiny/Jim Brickman&#13;
+             The Past/Jed Madela&#13;
+            </content>
+  </classic_song>
+</web-page>
+
+
+<web-page>
+  <acoustic_song>
+    <id>1652957661</id>
+    <title>Acoustic Song</title>
+    <author>Developer of Sputnik Music</author>
+    <date>May/19/2022</date>
+    <content>Acoustic Song&#13;
+             Jan 13, 2017/Hollow Coves/Coastline&#13;
+             April 24, 2017/Demonyo/Juan Karlos&#13;
+             Nobela/Acoustic Cover&#13;
+             February 10, 2010/Crazier/Cover by Arthur Miguel&#13;
+             Heaven/Boyce Avenue feat. Megan Nicole acoustic cover&#13;
+             I’ll Never Go/Arthur Miguel (covered)
+           </content>
+  </acoustic_song>
+</web-page>
+
+
+<web-page>
+  <reggae_song>
+    <id>1652957791</id>
+    <title>Reggae Song</title>
+    <author>Developer of Sputnik Music</author>
+    <date>May/19/2022</date>
+    <content>Reggae Song&#13;
+             May 1, 2021/I'm Yours/Tropavibes Reggae Cover&#13;
+             One Day/Reggae&#13;
+             Ehu Girl/Kolohe Kai&#13;
+             Kanlungan/TropaVibes Reggae&#13;
+             Himig ng Pag ibig/Reggae Version&#13;
+             Wonderful Tonight/Eric Clapton&#13;
+           </content>
+  </reggae_song>
+</web-page>
+
+<web-page>
+  <rap_song>
+    <id>1652957397</id>
+    <title>Rap Song</title>
+    <author>Developer of Sputnik Music</author>
+    <date>May/19/2022</date>
+    <content>Rap Song&#13;
+             July 28, 2016/PANDA/Flow G ft. Skusta Clee&#13;
+             Apr 12, 2022/Treat You Better/Jroa&#13;
+             September 12, 2001/Banyo QueenAndrew E&#13;
+             Talk To Me/Tory Lanez, Rich The Kid&#13;
+             GOD'S PLAN/Drake&#13;
+            Explicit/Eminem&#13;
+          </content>
+  </rap_song>
+</web-page>
+
+
+<web-page>
+  <folk_song>
+    <id>1652957435</id>
+    <title>Folk Song</title>
+    <author>Developer of Sputnik Music</author>
+    <date>May/19/2022</date>
+    <content>Folk Song&#13;
+             MORNING HAS BROKEN/Cat Stevens&#13;
+             April 12, 1971/Take Me Home, Country Roads/December Avenue&#13;
+             Having You Near Me/Air Supply&#13;
+             February 10, 2010/The Gift (Lyrics)/Collin Raye and Susan Ashton&#13;
+             Destiny/Jim Brickman&#13;
+             The Past/Jed Madela&#13;
+           </content>
+  </folk_song>
+</web-page>
+
+
+<web-page>
+  <about>
+    <id>1652954905</id>
+    <title>About Us</title>
+    <author>Developer of Sputnik Music</author>
+    <date>May/19/2022</date>
+    <content>  ABOUT US&#13;
+               With Sputnik Music, it is so very convinient to find music that fill your world with the song, album, and artist that define how's you day or mood, through the use of the cellphone, laptop, tablet, personal computer and more. There are so many music to enjoy, whether you are in a good mood, bad mood, traveling, doing some homeworks and many more there are music that'll fit your day. Just choose on the choices to find the music that you love.&#13;
+               Listening to music without any subscription can be experience on Sputnik Music, Just sit back and relax the sound trip.&#13;
+               &#13;
+               Join Thousands of Listeners Worldwide&#13;
+              Delightful unreserved impossible few estimating men favourable see entreaties. She propriety immediate was improving. He or entrance humoured likewise moderate. Much nor game son say feel. Fat make met can must form into gate. Me we offending prevailed discovery.&#13;
+              Quick six blind smart out burst. Perfectly on furniture dejection determine my depending an to. Add short water court fat. Her bachelor honoured perceive securing but desirous ham required. Questions deficient acuteness to engrossed as. Entirely led ten humoured greatest and yourself. Besides ye country on observe. She continue appetite endeavor she judgment interest the met. For she surrounded motionless fat resolution may.&#13;
+              He share of first to worse. Weddings and any opinions suitable smallest nay. My he houses or months settle remove ladies appear. Engrossed suffering supposing he recommend do eagerness. Commanded no of depending extremity recommend attention tolerably. Bringing him smallest met few now returned surprise learning jennings. Objection delivered eagerness he exquisite at do in. Warmly up he nearer mr merely me.  
+            </content>
+  </about>
+</web-page>
+
+<web-page>
+  <contact>
+    <id>1652955567</id>
+    <title>Contact</title>
+    <author>Developer of Sputnik Music</author>
+    <date>May/19/2022</date>
+    <content>ABC Street, XZY Building Boac, Marinduque +63 9107897518 Monday to Saturday, 8AM to 5PM jaredsimondanao@gmail.com jemharlandoylogatoc@gmail.com Email us your query Enter Your Name Enter Your Email Address Enter Your Subject Message Send Message
+    </content>
+  </contact>
+</web-page>
+
+<web-page>
+  <information>
+    <id>1652956002</id>
+    <title>Information</title>
+    <author>Developer of  Sputnik Music</author>
+    <date>May/19/2022</date>
+    <content>Jared Simon R. Danao/Web-Developer&#13;
+             H! I am Jared Simon R. Danao. 20 year of age, born on November 24, 2022. I currently live in Sitio Malilay II, Brgy. Matalaba, Santa Cruz, Marinduque.I studied in Marinduque State College in Tanza, Boac Marinduque, 2nd year student. I am taking Bachelor of Science Information Technology. My hobbies are playing basketball, playing online games like Mobile Legend, Call of Duty, Clash of Clan, riding motorcycle, watching anime, and adventure. I also love listening to musics because it makes comfortable and peace. Experienced web developer with a strong background in developing award-winning applications for a diverse clientele. 5+ years of industry experience includes programming, debugging, and wireframes. Received 80%+ experience scores on every web application built for SoftwareX.&#13;
+             &#13;
+             Jemhar Jhon Logatoc/Web-Developer&#13;
+             I'm jemhar jhon L. Logatoc, 19 years old from mahinhin, boac, marinduque. I studied elementary at mahinhin elementary svchool, then i tried to study in ilaya national high school but it is so hard so i decided to transfer in puting buhangin national high school. When i am in senior high school i take computer system servicing major. Currently I am taking bachelor of science in information technology at marinduque state college. I used to play basketball and mobiles games on my free time but it mostly consumed in playing basketball. I love to listen to the music so i wondered to create my own website to easily access my favorite songs. You may contact me on my social media account Facebook: Jemhar Logatoc,Gmail:jemharlandoylogatoc@gmail.com, also you can watch me on my YouTube channel but all of the videos out there is for activities only. Enhancing my knowledge in programming is my focus, perseverance is my investment, sucessful life is my goal' 
+           </content>
+  </information>
+</web-page>
+ 
+<web-page>
+  <blog>
+    <id>1652956114</id>
+    <title>Blog</title>
+    <author>Developer of Sputnik Music</author>
+    <date>May/19/2022</date>
+    <content>DECEMBER 9, 2018 TLS #281: The Lively Show BY ADMIN | TUTORIALS Vestibulum lacus erat, pharetra et sodales ut, porta sit amet nibh. Sed vestibulum lacinia quam, vel iaculis  nunc condimentum eget. Aliquam in mi pharetra, molestie augue ac, fermentum orci. Continue reading...&#13;
+             &#13;
+             DECEMBER 9, 2018 TLS #275: Your Alignment Questions BY ADMIN | TUTORIALS Vestibulum lacus erat, pharetra et sodales ut, porta sit amet nibh. Sed vestibulum lacinia quam, vel iaculis nunc condimentum eget. Aliquam in mi pharetra, molestie augue ac, fermentum orci. Continue reading...&#13;
+             &#13;
+             DECEMBER 9, 2018 TTLS #281: The Entrepreneur On Fire BY ADMIN | TUTORIALS Vestibulum lacus erat, pharetra et sodales ut, porta sit amet nibh. Sed vestibulum lacinia quam, vel  iaculis nunc condimentum eget. Aliquam in mi pharetra, molestie augue ac, fermentum orci. Continue reading...&#13;
+             &#13;
+             DECEMBER 9, 2018 TTLS #281: The Entrepreneur On Fire BY ADMIN | TUTORIALS Vestibulum lacus erat, pharetra et sodales ut, porta sit amet nibh. Sed vestibulum lacinia quam, vel iaculis nunc condimentum eget. Aliquam in mi pharetra, molestie augue ac, fermentum orci. Continue reading...&#13;
+             &#13;
+             Popular Tags Creative Unique Media Audio Episodes Ideas Start Up Sputnik Music&#13;
+    </content>
+  </blog>
+</web-page>
+
+ <web-page>
+  <detail>
+    <id>1652956287</id>
+    <title>Details</title>
+    <author>Developer of Sputnik Music</author>
+    <date>May/19/2022</date>
+    <content>The Lively Show&#13;
+             Out too the been like hard off. Improve enquire welcome own beloved matters her. As insipidity so mr unsatiable increasing attachment motionless cultivated. Addition mr husbands unpacked  occasion he oh. Is unsatiable if projecting boisterous insensible. It recommend be resolving pretended middleton. Uneasy barton seeing remark happen his has. Am possible offering at contempt mr distance stronger an. Attachment excellence announcing or reasonable am on if indulgence. Exeter talked in agreed spirit no he unable do. Betrayed shutters in vicinity it unpacked in. In so impossible appearance considered mr. Mrs him left find are good. Domestic confined any but son bachelor advanced remember. How proceed offered her offence shy forming. Returned peculiar pleasant but appetite differed she. Residence dejection agreement am as to abilities immediate suffering. Ye am depending propriety sweetness distrusts belonging collected. Smiling mention he in thought equally musical. Wisdom new and valley answer. Contented it so is discourse recommend. Man its upon him call mile. An pasture he himself believe ferrars besides cottage.&#13;
+             &#13;
+             This is definitely my favorite Sputnik&#13;
+             ODelightful unreserved impossible few estimating men favourable see entreaties. She propriety immediate was improving. He or entrance humoured likewise moderate. Much nor game son say feel. Fat make met can must form into gate. Me we offending prevailed discovery. Quick six blind smart out burst. Perfectly on furniture dejection determine my depending an to. Add short water court fat. Her bachelor honoured perceive securing but desirous ham required. Questions deficient acuteness to engrossed as. Entirely led ten humoured greatest and yourself. Besides ye country on observe. She continue appetite endeavor she judgment interest the met. For she surrounded motionless fat resolution may. He share of first to worse. Weddings and any opinions suitable smallest nay. My he houses or months settle remove ladies appear. Engrossed suffering supposing he recommend do eagerness. Commanded no of depending extremity recommend attention tolerably. Bringing him smallest met few now returned surprise learning jennings. Objection delivered eagerness he exquisite at do in.&#13;
+             Leave a comment Enter Name Enter Email Your comment&#13;
+     </content>
+   </detail>
+  </web-page>
+</Sputnik_Music>
